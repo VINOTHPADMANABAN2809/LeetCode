@@ -34,6 +34,7 @@
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [1205-defanging-an-ip-address](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1797-goal-parser-interpretation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1797-goal-parser-interpretation) |
 ## Math
 |  |
 | ------- |
