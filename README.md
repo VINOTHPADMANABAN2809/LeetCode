@@ -22,6 +22,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
