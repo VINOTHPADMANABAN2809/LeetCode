@@ -24,6 +24,7 @@
 | [2048-build-array-from-permutation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3429-special-array-i](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
