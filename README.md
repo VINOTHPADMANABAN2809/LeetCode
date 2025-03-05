@@ -16,6 +16,7 @@
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
