@@ -26,6 +26,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
+| [1205-defanging-an-ip-address](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Math
 |  |
 | ------- |
