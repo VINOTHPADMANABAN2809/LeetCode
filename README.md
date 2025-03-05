@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,12 +54,14 @@
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
+| [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
