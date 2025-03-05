@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
