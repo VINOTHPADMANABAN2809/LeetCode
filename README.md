@@ -12,6 +12,7 @@
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
