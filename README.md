@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
