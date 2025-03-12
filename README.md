@@ -42,6 +42,7 @@
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1797-goal-parser-interpretation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
+| [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
 ## Matrix
 |  |
 | ------- |
