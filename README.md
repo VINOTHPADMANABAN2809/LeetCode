@@ -29,6 +29,7 @@
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
 | ------- |
