@@ -26,6 +26,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3429-special-array-i](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3429-special-array-i) |
@@ -35,6 +36,7 @@
 | [0001-two-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## String
 |  |
@@ -100,6 +102,7 @@
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
+| [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Backtracking
 |  |
