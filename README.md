@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
@@ -73,6 +74,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
 ## Sorting
 |  |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0909-stone-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
