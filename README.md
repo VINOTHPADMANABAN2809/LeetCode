@@ -39,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
+| [0782-jewels-and-stones](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
+| [0782-jewels-and-stones](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1797-goal-parser-interpretation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1797-goal-parser-interpretation) |
