@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
@@ -125,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0909-stone-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
@@ -134,4 +137,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
