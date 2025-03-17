@@ -53,6 +53,7 @@
 | [1797-goal-parser-interpretation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [3379-score-of-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
