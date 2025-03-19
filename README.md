@@ -34,6 +34,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3429-special-array-i) |
+| [3778-transform-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [3778-transform-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3778-transform-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
