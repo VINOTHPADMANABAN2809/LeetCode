@@ -49,6 +49,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
+| [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -63,6 +64,7 @@
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
