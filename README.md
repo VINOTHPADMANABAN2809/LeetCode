@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
@@ -131,6 +132,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Counting
 |  |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
