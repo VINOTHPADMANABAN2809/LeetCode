@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
