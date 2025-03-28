@@ -55,6 +55,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
+| [0742-to-lower-case](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
