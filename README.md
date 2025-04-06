@@ -75,6 +75,7 @@
 | [0009-palindrome-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
