@@ -38,6 +38,7 @@
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3194-find-words-containing-character](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3429-special-array-i) |
 | [3778-transform-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -68,6 +69,7 @@
 | [1797-goal-parser-interpretation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [3194-find-words-containing-character](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
