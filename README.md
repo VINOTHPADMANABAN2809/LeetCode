@@ -36,6 +36,7 @@
 | [2048-build-array-from-permutation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3194-find-words-containing-character](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -107,6 +108,7 @@
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3778-transform-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Matrix
 |  |
