@@ -39,6 +39,7 @@
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -75,6 +76,7 @@
 | [1899-count-items-matching-a-rule](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3379-score-of-a-string) |
 ## Math
@@ -213,6 +215,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Brainteaser
 |  |
 | ------- |
