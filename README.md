@@ -98,6 +98,7 @@
 | [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0909-stone-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -172,6 +173,7 @@
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Backtracking
