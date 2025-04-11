@@ -102,6 +102,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1642-water-bottles](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2383-add-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2383-add-two-integers) |
@@ -166,6 +167,7 @@
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
+| [1642-water-bottles](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2058-concatenation-of-array) |
