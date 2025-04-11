@@ -64,6 +64,7 @@
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2159-two-out-of-three](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2825-minimize-string-length](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## String
 |  |
@@ -84,6 +85,7 @@
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2825-minimize-string-length](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3567-convert-date-to-binary) |
