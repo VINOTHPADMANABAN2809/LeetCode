@@ -88,6 +88,7 @@
 | [2825-minimize-string-length](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Math
 |  |
@@ -178,6 +179,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [3447-clear-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
+| [3447-clear-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
