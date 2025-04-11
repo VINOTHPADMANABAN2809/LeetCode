@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
