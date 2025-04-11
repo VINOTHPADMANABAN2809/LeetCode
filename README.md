@@ -86,6 +86,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3194-find-words-containing-character](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3371-harshad-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3567-convert-date-to-binary](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Two Pointers
 |  |
 | ------- |
