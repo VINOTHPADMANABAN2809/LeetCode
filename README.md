@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -151,6 +153,7 @@
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
