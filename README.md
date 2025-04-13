@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0118-pascals-triangle) |
 | [0909-stone-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0909-stone-game) |
 ## Game Theory
 |  |
