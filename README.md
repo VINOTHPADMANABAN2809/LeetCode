@@ -48,6 +48,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -163,6 +164,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3778-transform-array-by-parity) |
@@ -175,6 +177,7 @@
 | [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3447-clear-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3447-clear-digits) |
 ## Bit Manipulation
 |  |
@@ -263,4 +267,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
