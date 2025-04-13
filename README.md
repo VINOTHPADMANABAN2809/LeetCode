@@ -56,6 +56,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3429-special-array-i](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3429-special-array-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -71,6 +72,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2825-minimize-string-length](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [3371-harshad-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3371-harshad-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3567-convert-date-to-binary](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
