@@ -30,6 +30,7 @@
 | [0898-transpose-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0898-transpose-matrix) |
 | [0909-stone-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0909-stone-game) |
 | [0932-monotonic-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0932-monotonic-array) |
+| [0941-sort-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -140,6 +141,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
+| [0941-sort-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -161,6 +163,7 @@
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0941-sort-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
