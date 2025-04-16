@@ -105,6 +105,7 @@
 | [0007-reverse-integer](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0263-ugly-number) |
@@ -274,4 +275,8 @@
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
