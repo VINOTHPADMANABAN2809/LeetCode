@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -167,6 +168,7 @@
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
