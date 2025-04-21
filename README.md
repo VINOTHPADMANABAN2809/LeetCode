@@ -114,6 +114,7 @@
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0292-nim-game) |
@@ -218,6 +219,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
 | ------- |
