@@ -111,6 +111,7 @@
 | [0050-powx-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
@@ -290,4 +292,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1137-height-checker) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
