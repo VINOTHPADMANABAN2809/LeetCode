@@ -85,6 +85,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
 | [0742-to-lower-case](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0742-to-lower-case) |
@@ -111,6 +112,7 @@
 | [0050-powx-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
+| [0171-excel-sheet-column-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0292-nim-game) |
