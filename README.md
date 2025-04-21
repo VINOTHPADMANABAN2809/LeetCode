@@ -122,6 +122,7 @@
 | [0909-stone-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1448-maximum-69-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -300,4 +301,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0258-add-digits) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
