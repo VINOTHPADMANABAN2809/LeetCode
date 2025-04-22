@@ -43,6 +43,7 @@
 | [1635-number-of-good-pairs](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -94,6 +95,7 @@
 | [1205-defanging-an-ip-address](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1797-goal-parser-interpretation](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1970-sorting-the-sentence) |
@@ -237,6 +239,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1603-running-sum-of-1d-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Counting
 |  |
 | ------- |
