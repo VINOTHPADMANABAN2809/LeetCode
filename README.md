@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
@@ -140,6 +141,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -169,6 +171,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
