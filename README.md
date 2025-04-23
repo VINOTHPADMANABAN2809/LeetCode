@@ -22,6 +22,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +72,7 @@
 | [0001-two-sum](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -120,6 +122,7 @@
 | [0231-power-of-two](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0412-fizz-buzz) |
@@ -167,6 +170,7 @@
 | [0035-search-insert-position](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -179,6 +183,7 @@
 | [0088-merge-sorted-array](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -225,6 +230,7 @@
 | [0029-divide-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0861-flipping-an-image](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/VINOTHPADMANABAN2809/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
